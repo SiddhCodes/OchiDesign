@@ -47,7 +47,7 @@ const Navbar = () => {
       </div>
       <div className="menu lg:hidden">
         <svg
-          class="nav-toggle"
+          className="nav-toggle"
           width="24"
           height="9"
           viewBox="0 0 24 9"
